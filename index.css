@@ -1,0 +1,31 @@
+body{
+
+    background-color: rgb(247, 236, 199);
+}
+
+.header{
+    border: solid black 1px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+section p{
+    color: white;
+    background-color: rgb(9, 99, 69);
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.first{
+   
+    padding: 5px;
+    margin-left: 50px;
+}
+.main{
+    display: flex;
+}
+.second{
+    margin-left:20px;
+}
+.third{
+    margin-left:20px;
+}
